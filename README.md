@@ -52,7 +52,7 @@ You can customize the simulation by adjusting parameters such as initial velocit
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
 ## LICENSE
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/garvit-exe/solar-system-simulation/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References
 This project draws inspiration from various sources and references:
