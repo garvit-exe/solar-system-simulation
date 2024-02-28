@@ -25,7 +25,7 @@ This project is a basic solar system simulation created using Python and Pygame.
 2. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/solar-system-simulation.git
+   git clone https://github.com/garvit-exe/solar-system-simulation.git
 
 3. Navigate to the project directory:
 
